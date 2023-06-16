@@ -1,2 +1,2 @@
-# Full Stack IOS Development with Swift and Vapor
- Full Stack IOS Development with Swift and Vapor, by BPB Publications
+# Full Stack iOS Development with Swift and Vapor
+ Full Stack iOS Development with Swift and Vapor, by BPB Publications
