@@ -3,7 +3,7 @@
 A step-by-step journey into full-stack iOS development with Swift and Vapor
 
 This is the repository for [Full Stack iOS Development with Swift and Vapor
-](https://bpbonline.com/products/full-stack-ios-development-with-swift-and-vapor?variant=42792926904520),published by BPB Publications. 
+](https://bpbonline.com/products/full-stack-ios-development-with-swift-and-vapor?variant=42792926904520), published by BPB Publications. The code bundles of this book are also available here: https://rebrand.ly/yqsj4yl
 
 ## About the Book
 Full-stack iOS applications combine frontend and backend development to create powerful and versatile mobile experiences, providing users with rich functionality and reliable data management. If you're interested in building full stack iOS applications, this book is a perfect fit for you.
